@@ -1,0 +1,39 @@
+<phyloxml xmlns="http://www.phyloxml.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <name>Unrooted_Phylogram</name>
+    <id>P_2020-04-22_11:36:42</id>
+    <clade>
+      <name>0_inner</name>
+      <clade>
+        <name>1_XP_022272146.1</name>
+        <branch_length>77.75</branch_length>
+      </clade>
+      <clade>
+        <name>2_inner</name>
+        <branch_length>29.75</branch_length>
+        <clade>
+          <name>3_inner</name>
+          <clade>
+            <name>4_XP_022272150.1</name>
+            <branch_length>1.6666666666666856</branch_length>
+          </clade>
+          <clade>
+            <name>5_XP_022272148.1</name>
+            <branch_length>21.666666666666686</branch_length>
+          </clade>
+        </clade>
+        <clade>
+          <name>6_inner</name>
+          <clade>
+            <name>7_XP_022272147.1</name>
+            <branch_length>40.75</branch_length>
+          </clade>
+          <clade>
+            <name>8_XP_022272157.1</name>
+            <branch_length>44.25</branch_length>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

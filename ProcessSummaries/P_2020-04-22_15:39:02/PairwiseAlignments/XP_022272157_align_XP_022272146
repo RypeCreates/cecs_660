@@ -1,0 +1,50 @@
+Process ID: P_2020-04-22_15:39:02
+Sequence 1: XP_022272157.1 cyclin-dependent kinase-like 5 isoform X1 [Canis lupus familiaris]
+Sequence 2: XP_022272146.1 glutamate receptor 3 isoform X1 [Canis lupus familiaris]
+Alignment Strategy: l
+	Match: 5.0
+	Mismatch: -3.0
+	Gap: -8
+
+Hamming Distance: 195.09999999999968
+
+F G F A R N L S E G N N A N Y T E Y V A T R W Y R S P E L L L G A P Y G K S V D 
+| | |     : : |   . .   : : :   .   :   | .   :   : | . :     : |           : : 
+F G F Y D Q M S M N T L T S F C G A L H T S _ F V T P S F P T D A D V Q F V I Q 
+################################################################################
+M W _ S V _ G C I L G E L S D G Q _ P L F P G E S E I D Q L F T I _ Q K V L G P 
+| :   : :   |   | | :   | : :   :       |         : . : :   | : |   |   : : . : 
+M R P A L K G A I L S L L G H Y K W E K F V Y L Y D T E R G F S I L Q A I M E A 
+################################################################################
+L P S E Q M K L F Y S N _ P R F H G L R _ F _ P A V N H _ P Q T L E R R Y L _ G 
+      : :   : :     . :   . . : . : : :   |   .   : : :     :     | : | | |   : 
+A V Q N N W Q V T A R S V G N I K D V Q E F R R I I E E M D R R Q E K R Y L I D 
+################################################################################
+I L N S V L L D L M K N L L K L D P A D R Y L T E Q C L N H P T F Q T Q R L L D 
+      .   :   . : : . : : :   | :     . |             | . :   . |   | :   | | : 
+C E V E R I N T I L E Q V V I L G K H S R G Y H Y M _ L A N L G F _ T D I L L E 
+################################################################################
+R S P S R S A K R K P Y H V E S S T L S N R N Q _ A S K S T A L Q S H H R S N S 
+|         : | :   . . : : :   : : .   :     : |       :   .   | : . : :   : : : 
+R V M H G G A N I T G F Q I V N N E N P M V Q Q F I Q R W V R L D E R E F P E A 
+################################################################################
+K D I Q _ N L S V G L P R A D E G L P A N E S F L N G N L A G A T L S P M H T K 
+| :   .   :   :   : | . :   | .   |     . | : |       .   .   . . : |   . : . . 
+K N A P L K Y T S A L T H _ D A I L V I A E A F R Y L R R Q R V D V S _ R R G S 
+################################################################################
+T Y Q A S S Q P G S T _ S K D L T N N N I P H L L S P K E A K S K T E F D F N I 
+:   :     : : | :   .   | : : : .   : .     . : :     : .   . : : . : | |   .   
+A G D C L A N P A V P W S Q G I D I E R A L K M V Q V Q G M T G N I Q F D _ T Y 
+################################################################################
+D P K P S E G P G T K Y _ L K _ S S S R S Q Q N R H S F M E S S Q S K A G T L Q 
+: . : . :   .   : .   |   : |   : : | | . .     : : . :   | .     :   : :       
+G R R T N Y T I D V _ Y E M K V T G S R K A G Y W N E Y _ E R F V P F S D Q Q I 
+################################################################################
+P T E K Q S R H S Y I D T I P Q S S R S P S Y R T K A K S H G A L S D S K S V S 
+: . : . . | . : :   .   . : .         | |   |         | : | . . | . : : . .   . 
+S N D S A S S E N R T I V V T T I L E S P _ Y V M Y K K N H E Q L E G N E R Y E 
+################################################################################
+N L S E A R A _ Q I A E S N T S R Y 
+.   .   .   |   : | | .         : | 
+G Y C V D L A Y E I A K H V R I K Y 
+####################################

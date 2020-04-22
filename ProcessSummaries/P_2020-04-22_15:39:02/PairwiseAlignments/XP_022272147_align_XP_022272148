@@ -1,0 +1,42 @@
+Process ID: P_2020-04-22_15:39:02
+Sequence 1: XP_022272147.1 oral-facial-digital syndrome 1 protein isoform X2 [Canis lupus familiaris]
+Sequence 2: XP_022272148.1 phospholipid-transporting ATPase IG isoform X2 [Canis lupus familiaris]
+Alignment Strategy: l
+	Match: 5.0
+	Mismatch: -3.0
+	Gap: -8
+
+Hamming Distance: 135.5000000000001
+
+L N H S V N _ R V K E _ L E L E L E S V R A Q C L A I T N Q N H L L N E K V K E 
+|   | : | :   : . : :   : :       | | . :     . : :   : . : :     |   .   . | . 
+L C H T V E I K T N D A V D G P T E S A K L T Y M S S S P D E I A L V K G A K K 
+################################################################################
+M S _ D Y S L L K E G K L E L Q A Q N R L L K Q _ Q V E D S R N _ E N L _ R L L 
+  :   . :     : : : | . :   : : . | . :   : . :   : :   : :   |   : : :   |   : 
+Y G F T F V G I R N G H M R I E N Q R K E I E E Y E L L H T L N F D S V R R R M 
+################################################################################
+N H I A Q _ P S P E L V V F Q K E L K K A E N A I A L E H K E F E N H K L A L Q 
+:   | . :   . : . : : : : |   | .   . . |     :     : : : . | : |     |     : : 
+S V I V K T Q A G D I L L F C K G A D S A V F P _ R V Q N H E I E L T K A H V E 
+################################################################################
+K Q _ L Q S E I E H S A Q L K A Q I R D Y D E S V N R L T I Q V A D L R L Q L K 
+: :   : : :     .   . . . : |   : |       | :     : | : .   | :   :   : : . | : 
+R N A M D G Y R T L C V A F K _ E I A P _ D D _ Y E R I N R Q L I E A K M A L Q 
+################################################################################
+Q T Q T A L E N E V Y R N P K Q S L I D R S V S R L L S G K T V V P W N G D L N 
+:   : .   : | :   | :   :   .   : :   :       :     : . : |   :       . : :     
+D R E E K M E K _ V F D D I E T N M _ N L I G A T A V E D K _ L Q D Q A A E T I 
+################################################################################
+G D F L K N P L K Q E R L M A I I P R I T S L P N A S T E S S S P D S D L E F V 
+. . :     . . | |     : : : :       : : . :     : : .   . . .     : : .   | : : 
+E A L H A A G L K _ V W V L T _ G D K M E T A K S T C Y A C R L F Q T S T E L L 
+################################################################################
+V N T K M R V K E L E Q E A E R L E K A F Q N Y H R R V S Q H P A K S P L T S K 
+    | . .   : . |   | : . . : | | : .   :   : | : : : :   : :   : | | .   :   | 
+E L T T K T I E E S E R K E D R L H E L L I E Y R K K L L H D F P K S T R S L K 
+################################################################################
+S P 
+. : 
+K A 
+####

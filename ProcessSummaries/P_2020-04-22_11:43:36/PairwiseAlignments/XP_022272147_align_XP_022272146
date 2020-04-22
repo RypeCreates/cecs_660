@@ -1,0 +1,74 @@
+Process ID: P_2020-04-22_11:43:36
+Sequence 1: XP_022272147.1 oral-facial-digital syndrome 1 protein isoform X2 [Canis lupus familiaris]
+Sequence 2: XP_022272146.1 glutamate receptor 3 isoform X1 [Canis lupus familiaris]
+Alignment Strategy: l
+	Match: 5.0
+	Mismatch: -3.0
+	Gap: -8
+
+Hamming Distance: 516.0
+
+R N K L I H E L M H P V L N G E L Q P P S V S V E G S A L L T S A S N S L V A D 
+    |                 |         |           |     |           |                 
+Q K K M G Q N V L R A V F L L V L G L L G H S H G G F P N T I S I G G L F M R N 
+################################################################################
+Y L Q _ R C G Y E Y S L S V F F P E S G L A K E K V L T M Q D L L Q L I K I N P 
+    |                                         | |                               
+T V Q E H S A F R F A V Q _ L Y N T N Q N T T E K P F H L N Y H V D H L D S S N 
+################################################################################
+E S S L Y K S L I S G F D K E N K G F L L H F L R E L A D Y H Q S K A S C D A E 
+    |             |   |                     |                           |   |   
+S F S V T N A F C S Q F S R G V Y A _ I F G F Y D Q M S _ M N T L T S F C G A _ 
+################################################################################
+T Q T S L A F P G K D S L A E K L Q L I D D Q F A D A S P Q R P K L E S L E I K 
+    | |     |         |                     | |                 |       |       
+L H T S _ _ F _ V T P S F P T D A D _ V _ _ Q F V I Q M R P A L K G A I L S L _ 
+################################################################################
+L N E Y K K E I E Q Q L _ Q A E M C H K _ L K Y F K D T E V A K I _ K M E E K R 
+|     | |   |         |       |           |               |                     
+L G H Y K W E K F V Y L Y D T E R G F S I L Q A I M E A A V Q N N W Q V T A R S 
+################################################################################
+K A E _ K E L A K F R N Q F E Q A L R A K S E A F _ I S R E R L A L E R I Q K H 
+        |         | |       |       |               |     |             |       
+V G N I K D V Q E F R R I I E E M D R R Q E K R Y L I D C E V E R I N T I L E Q 
+################################################################################
+Q E I E T K E I Y A Q R Q L L L K _ D I _ D L L R G R E A E L K Q R I E A F E L 
+    |     |                 |             |   |     |               |     |     
+V V I L G K H S R G Y H Y M L A N L G F T D I L L E R V M H G G A N I T G F Q I 
+################################################################################
+Y Q L E _ _ L K D D Y I A R T N R L I D D E _ R K N K E K A I H L Q E E L S A I 
+      |               |   |     | |       |         |                   |       
+V N N E N P M V Q Q F I Q R W V R L D E R E F P E A K N A P L K Y T S A L T H D 
+################################################################################
+N S K K E E L N H S V N R V K E L E L E L E S V R A Q C L A I T N _ Q _ N H L L 
+                        |                             | | |                     
+A I L V I A E A F R Y L R R Q R V D V S R R G S A G D C L A N P A V P W S Q G I 
+################################################################################
+N _ E K V K E M S D Y S L L K E G K L E L Q A _ Q N R L _ L K Q Q V E D S R N E 
+    |         |                 |                   |             |             
+D I E R A L K M V Q V Q G M _ T G N I Q F D T Y G R R T N Y T I D V Y E M K V T 
+################################################################################
+N L R L L N H I A Q P S P E L V V F Q K E L K K A E N A I A L E H K E F E N H K 
+    |                         |   |                   |       |                 
+G S R K A G Y W N E _ Y E R F V P F S D Q Q I S N D S A S S _ E N R T I V V T T 
+################################################################################
+L A L Q K Q L Q S E I E H S A Q L K A Q I R D Y D E S V N R L T I Q V A _ D L R 
+    |                         | |         |   |             |         |       | 
+I _ L E S P Y V M Y K K N H E Q L E G N E R _ Y E G Y C V D L A Y E I A K H V R 
+################################################################################
+L Q L K Q T Q T A L E N E V Y R N P K Q S L I D R S V S R L L S G K T V V P W N 
+      |                       |   |                 |     |     |               
+I K Y K L S I V G D G K Y G A R D P E T K I W N G M V G E L V Y G R A D I A _ V 
+################################################################################
+G D L N G D F L K N P L K Q _ E R _ L M A I _ I P R I T S L P N A S T E S S S P 
+    |                                 |       |             |     |             
+A P L T I T L V R E E V I D F S K P F M S L G I S I M I K K P Q K S K P G V F S 
+################################################################################
+_ D S D L E F V V N T K M R V K E L E Q E A E R _ L E K A F Q N Y H R R V S Q H 
+        |                                         |       |     |               
+F L D P L A Y E I W M C I V F A Y I G V S V V L F L V S R F S P Y E W H L E D N 
+################################################################################
+P A K S P L T S K S P P 
+        |         | | | 
+_ N E E P R D P Q S P P 
+########################
