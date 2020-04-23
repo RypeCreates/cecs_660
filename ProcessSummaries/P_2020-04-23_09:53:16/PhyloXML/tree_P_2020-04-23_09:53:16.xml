@@ -1,0 +1,41 @@
+<phyloxml xmlns="http://www.phyloxml.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <name>SARS_Diseases</name>
+    <id>P_2020-04-23_09:53:16</id>
+    <clade>
+      <name>0_inner</name>
+      <clade>
+        <name>1_inner</name>
+        <branch_length>0.0</branch_length>
+        <clade>
+          <name>2_D14056.1</name>
+          <branch_length>0.35134069574132804</branch_length>
+        </clade>
+        <clade>
+          <name>3_XM_021195449.1</name>
+          <branch_length>0.34911322961538654</branch_length>
+        </clade>
+      </clade>
+      <clade>
+        <name>4_inner</name>
+        <branch_length>0.35177035013152774</branch_length>
+        <clade>
+          <name>5_NM_001379606.1</name>
+          <branch_length>0.008601976544292851</branch_length>
+        </clade>
+        <clade>
+          <name>6_inner</name>
+          <branch_length>0.006683032872072836</branch_length>
+          <clade>
+            <name>7_NM_001379605.1</name>
+            <branch_length>0.0010852691157993268</branch_length>
+          </clade>
+          <clade>
+            <name>8_NM_001935.4</name>
+            <branch_length>0.0005958747654607466</branch_length>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

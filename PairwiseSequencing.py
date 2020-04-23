@@ -1,7 +1,7 @@
 #   Author: Ryan Petit
 #   CECS 660 - 01
 #   FASTA and Dynamic Programming (DP) Classes
-#   15 April 2020
+#   23 April 2020
 
 
 import numpy as np
@@ -249,7 +249,7 @@ class DP:
                 elif matrix_d.item(i,j) is 0:
                     print("Something went wrong in traceback.")
                     break
-                
+        stack_size = len(align_stack)       
         s1,al,s2,cushion = "","","",""
         print_index = 0
 
@@ -285,7 +285,8 @@ class DP:
             file.write('\n{}'.format(s2))
             file.write('\n{}'.format(cushion))
 
-        return mismatched_position_count
+        d = self.jukes_cantor_distance(stack_size,mismatched_position_count)
+        return d
 
     def initialize_matrices_aa(self):  
         
@@ -359,3 +360,9 @@ class DP:
                 return int(row[i1])    
 
         return int(score_sheet[1][len(score_sheet[1]-1)]) # else return gap value
+
+
+    def jukes_cantor_distance(self, stack_size, mismatch_count):
+        p = mismatch_count/stack_size
+        d = (-3/4)*np.log(1-(4/3)*p)
+        return d

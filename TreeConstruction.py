@@ -1,7 +1,7 @@
 #   Author: Ryan Petit
 #   CECS 660 - 01
 #   Fitch and Margoliash Algorithm Implementation
-#   15 April 2020
+#   23 April 2020
 
 import numpy as np
 
@@ -20,6 +20,7 @@ class FitchMargoliash:
 
         z = 0
         r = 0.0
+        case_1 = False
         while(True):
             min_distance, min_i, min_j = self.__minimum_distance(distance_table)
             # print('1: {} -> {} = {:.2f}'.format(point_dictionary[min_i],point_dictionary[min_j],min_distance))
@@ -30,7 +31,6 @@ class FitchMargoliash:
             sum_distance_j = 0
             cluster = ''
 
-            # print('Distance table dump: {}'.format(distance_table))
             for i in range(0,len(distance_table)):
                 if i is min_i:
                     continue
@@ -54,6 +54,7 @@ class FitchMargoliash:
         
             if denominator is 0: 
                 is_cluster = True
+                if case_1: z = 0.0
                 # add current z value here
                 _handle = handle.rsplit(')',1)
                 if _handle[1] is "":
@@ -76,24 +77,30 @@ class FitchMargoliash:
             combinations = []
             combinations.append([[1,1,0],[1,0,1],[0,1,1]])         
 
+            # print('a1',min_distance)
+            # print('a2',sum_distance_i/denominator)
+            # print('a3',sum_distance_j/denominator)
 
             a = np.array(combinations[0])
             b = np.array([min_distance,sum_distance_i/denominator,sum_distance_j/denominator])
             x,y,z = np.linalg.solve(a,b)
             # print(x,y,z)
 
-            if x > 0 and y < 0: 
-                y = -1*y
-                x = x - 2*y
+            
+            if x < 0 or y < 0: 
+                print("ERROR - Distance table has not been normalized")
 
+            
             # if we are not at the very beginning
             if handle != "":
                 if point_dictionary[min_i][0] not in handle and point_dictionary[min_j][0] not in handle:
                     # print('Case 1')
-                    handle = "({},({}:{},{}:{}))".format(handle, point_dictionary[min_i],x,point_dictionary[min_j],y)
+                    handle = "({}:{},({}:{},{}:{}))".format(handle,z, point_dictionary[min_i],x,point_dictionary[min_j],y)
+                    case_1 = True
                 else:
                     # print('Case 2')
                     handle = "({}:{},{}:{})".format(handle,y,point_dictionary[min_i],x)
+                    case_1 = False
             else: 
                 # if nodes being added are not already in the handle
                 handle = "({}:{},{}:{})".format(point_dictionary[min_i],x,point_dictionary[min_j],y)
@@ -118,7 +125,7 @@ class FitchMargoliash:
                 else: b = distance_table[i][min_j]            
                 x = (float(a) + float(b))/2 - min_distance/2
                 x_lst.append(str(x))
-                # print('4: {} -> {} = {:.2f}'.format(point_dictionary[i],cluster,x))
+                print('4: {} -> {} = {:.2f}'.format(point_dictionary[i],cluster,x))
 
             # Update point dictionary for next pass
             if min_i > min_j:
@@ -165,5 +172,4 @@ class FitchMargoliash:
                     min_j = j
                     min_distance = distance
         return min_distance, min_i, min_j
-
 

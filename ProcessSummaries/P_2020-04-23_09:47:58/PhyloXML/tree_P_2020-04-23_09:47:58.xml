@@ -1,0 +1,40 @@
+<phyloxml xmlns="http://www.phyloxml.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <name>Canis_lupus_aa_Sequences</name>
+    <id>P_2020-04-23_09:47:58</id>
+    <clade>
+      <name>0_inner</name>
+      <clade>
+        <name>1_XP_022272146.1</name>
+        <branch_length>0.508459363670335</branch_length>
+      </clade>
+      <clade>
+        <name>2_inner</name>
+        <branch_length>0.0033832211408082458</branch_length>
+        <clade>
+          <name>3_inner</name>
+          <branch_length>0.5222603046639283</branch_length>
+          <clade>
+            <name>4_XP_022272150.1</name>
+            <branch_length>0.012474476880660876</branch_length>
+          </clade>
+          <clade>
+            <name>5_XP_022272148.1</name>
+            <branch_length>0.006286599491283407</branch_length>
+          </clade>
+        </clade>
+        <clade>
+          <name>6_inner</name>
+          <clade>
+            <name>7_XP_022272147.1</name>
+            <branch_length>0.4463602828768174</branch_length>
+          </clade>
+          <clade>
+            <name>8_XP_022272157.1</name>
+            <branch_length>0.4605423163466421</branch_length>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

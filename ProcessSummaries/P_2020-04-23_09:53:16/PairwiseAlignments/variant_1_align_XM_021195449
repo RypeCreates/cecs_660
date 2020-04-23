@@ -1,0 +1,262 @@
+Process ID: P_2020-04-23_09:53:16
+Sequence 1: NM_001935.4 Homo sapiens dipeptidyl peptidase 4 (DPP4), transcript variant 1, mRNA
+Sequence 2: XM_021195449.1 PREDICTED: Mus pahari seryl-tRNA synthetase (Sars), transcript variant X1, mRNA
+Alignment Strategy: l
+	Match: 5.0
+	Mismatch: -3.0
+	Gap: -4.0
+
+Hamming Distance: 1151.0
+
+C T C G G G G C C G _ A A A C T T G C C A G C G G C G A G T G A C T C C A C C G 
+| |   | |   | | | |         |   |   | |     |     | |   |   |   |   | |   | | | 
+C T A G G C G C C G T C C C C C T _ C C _ _ C _ _ C G _ G _ G C C G C C _ C C G 
+################################################################################
+C _ C C G G A G C A G C G G T G C A G G A C G C _ G C G T C T C C G C C G C _ _ 
+|   | |       | |   | |   | | |   |   | | |   |   |   | | |     | |   | | |     
+C G C C _ _ T G C _ G C A G T G _ A _ G A C _ C A G _ G T C A G C G _ C G C A G 
+################################################################################
+C C G C G G T G A C T T C T G _ C C _ T G C G C T C _ C T T C T C T G A A C G C 
+  | | |   | | |   |   | |   |   | |       | | |   |   | | |   | |     |     | | 
+G C G C A G T G _ C A T C _ G T C C A C C C G C _ C G C T T _ T C _ _ A G T G C 
+################################################################################
+T C A C T T C C G A G _ G A G A C G C C G A C G A T G A A G A C A C C G T G G A 
+| |   | | |       | |   |     |     |   |     |   | |   | |           | | | | | 
+T C T C T T _ _ _ A G T G T T A _ A C T G _ _ G _ T G _ A G _ _ _ _ _ G T G G A 
+################################################################################
+A G G _ T T C T T C T G G G A C T G C T G G G T G C T G C T G C _ G C T T G _ T 
+| | |   |     |   | |   | | | |     | | | |   |     | |   |   |   |   |   |   | 
+A G G A T G G T G C T _ G G A C _ _ C T G G A T _ T T G T T T C G G G T G G A T 
+################################################################################
+C A C C A T C A _ _ T C A C C G T G C C C G T G G T T C T G C T G A _ A C A A A 
+  |     |     |         | | |     | | | |   |   | | | |   |     | |   | |     | 
+_ A _ A A G G A G G G G A C C C A G C C C _ T C G T T C _ G _ A G A G A C G C A 
+################################################################################
+G G C A C A G A T G A T G C T A C _ A G C T G A C A G T C G C A A A A C T _ _ T 
+| |       | | |   |     | | |   |   | |     | | |       |   |         | |     | 
+G G _ _ _ A G A A G _ C G C T T C A A G _ _ G A C _ _ _ C _ C G G G G C T G G T 
+################################################################################
+A C A C T C T A A C T G A T T A C T T A A A A A A T A C T T A T A G A C T G A A 
+    | |   |   |   | | |             |       | | |     |         | | | |       | 
+G G A C _ C _ A G C T G _ _ _ _ _ G T _ _ G A A A _ G C _ _ _ _ A G A C _ _ _ A 
+################################################################################
+G T T A T A C T _ C C T T A A G A T G _ _ G A T T T C A G A T C A T G A _ A T A 
+| |   |   |   |     |     |   | | | |     | | | | | |   |     | |   | |   |   | 
+G T G A _ A _ T G G C _ G A C G A T G C A G A T T T C _ G G G C A _ G A C A _ A 
+################################################################################
+T C T C T A C A A A C A A G _ A A A A T A A T A T C T _ T G G T A T T C A A T G 
+  | |   |       | | | | | |       | |   | | |   |   |   |   |   |     | | |     
+_ C T _ T _ _ G A A C A A G C T G A A G A A T _ T _ T A T _ G C A _ G C A A A A 
+################################################################################
+C T G A A T A T G G A A A C A G C T C A G T T T T C T T G G A G A A C A G T A C 
+| |     | |   | | |       |   |       | |             | |   | | | |   |     |   
+C T _ _ A T _ T G G _ _ _ C _ G _ _ _ A G _ _ A A A A T G A A G A A _ A _ _ A _ 
+################################################################################
+A T T T G A T G _ A G T T T G G A C A T T C T A T C A A T G A T T A T T C A A T 
+|       | |   |   | |   |   | | |   |   |     |   |       |       |   | |     | 
+A _ _ A G A A G C A G _ T G G G A G A _ T _ G A _ C _ _ _ G _ _ _ A G T C _ _ T 
+################################################################################
+A T C T C C T G A T G G G C A G T _ _ T T A T T C T C T T A G A A T _ A C A A C 
+  | |   | |   | |   | |   |   | |     |   |   |   |   | |   |   | |   | |     | 
+G T C _ C C A G A _ G G A C _ G T G C T G A A T _ T _ T T _ G _ A T G A C _ _ C 
+################################################################################
+T _ A C G T G A A G _ C A _ A T G G A G G C A T _ T C C T _ A C A C A G C T T C 
+|   | |   | |   | |   | |   | |     |   | |   |     | | |   |   |   | |     | | 
+T C A C _ T G C A G A C A C A T _ T A _ G C _ T G C C C T G A _ A _ A G _ _ T C 
+################################################################################
+A T A T G A C A T T T A T G A T T T A A A T A A A A G G C A G _ C T G A T T A C 
+      |     | |       |   | |   | |   | |   | | | | |   |   |   | |     |   |   
+_ _ _ T _ _ C A _ _ C A _ G A _ T T _ A A _ A A A A G T C C G A C T C C T C A T 
+################################################################################
+A G A A G A G A G G A T T C C A A A C A A C A C A C A G T G G G T C A C A T G G 
+  | |   | |   |   |       | |   |   |     | |   |   | | |     | |       | | | | 
+T G A T G A _ A _ G _ _ _ C C _ A T C _ _ C A G A _ A G T _ _ G T _ _ G A T G G 
+################################################################################
+T C A C C A G T G G G T C A T A A A _ _ T T G _ _ G C A T A _ T G _ T T T G _ G 
+    |     |       | |     | | | | |     |   |     | | |   |     |   | | | |   | 
+G G A _ _ A _ _ C G G _ _ A T A A A G C T G G A A G C A G A G C G A T T T G A G 
+################################################################################
+A A C A A T _ _ G A C A T T T A T G T T A A _ A A T _ T G A A C C A A A T _ T _ 
+| | |     |     | |   |     |   | |     | |       |   | |   | | |       |   |   
+A A C _ C T C C G A G A G A T _ T G G G A A C C T T C T G C A C C _ C C T C T G 
+################################################################################
+T _ A C C A _ _ A G T T A C A G A A T C A _ C A T G _ _ G A C G G G G A A A G A 
+|     | | |     | | |   | |   |   | |   |     | | |     | | |         | | | |   
+T G C C C A T T A G T A A C _ G _ A T G A G G A T G C A G A C _ A A C A A A G T 
+################################################################################
+A G A T A T A A T A T A T A A T G G A _ A T A A C T G _ A C T G G G T T T A T G 
+| | |         | |   |   |       | | |   | |       | |   | |       |   |   |   | 
+A G A G C G C A T _ T _ T _ G G G G A G A T _ _ _ T G T A C _ _ A G _ T C A G G 
+################################################################################
+A A G A G G A A G T C T T C A _ G T G C C T A C T C T G C T C T G T G G T G G T 
+| | | |   |   |   | |     | |   | | |       | |   | | |   |     | | |   | | |   
+A A G A A G T A T T C _ C C A C G T G _ _ G A C _ C T G G T _ G G T G A T G G _ 
+################################################################################
+C T C C A A A C G G C A C T T T T T T A _ G C _ _ A T A _ T G _ C C C A A T _ T 
+  |     |   |   | |     |   | | |     |   | |     |   |     |     | |     |     
+_ T _ _ A G A T G G _ _ C _ T T T G A A G G C G A A A A G G G A G C C _ G T G G 
+################################################################################
+T A A C _ _ G _ A C A C A G A A G T C C C A C T T A T T G A A _ _ T A C T C C T 
+|     |     |   |     |   |     | |       | | | |     | | | |         |   | | | 
+T G G C T G G T A G T C G G G G G T _ _ _ A C T T C C T G A A G G G G C C C C T 
+################################################################################
+_ _ T C T A C T C T G A T G A G T C A _ _ C T G C A G T A C C C A A A G A C T G 
+    |   |   |   | | |     | | |   | |     |   | |     | |   | |     | |     | | 
+G G T G T T C _ C T G _ _ G A G _ C A G G C _ G C _ T T A T C C _ _ A G T T T G 
+################################################################################
+T A C _ G G G T T C C A T A T C C A A A G G C A G G A G C T G T G A A T C C A A 
+  | |   |   | |   | |   |   |         | |   |   | |   | | |       |   | | | | | 
+C A C T G C G T A C C _ T _ T G G G G A G T C _ G G G G C T _ A C A C T C C A A 
+################################################################################
+C T G T A A A G T T C T T T G T T _ G T A A A T A C A G A _ C T C _ T C T C A G 
+  |   | |   |       |   | |   | |     |   |     |   | | |     | |   |     | | | 
+_ T C T A C A C C C C C T T C T T C A T G A G G A A A G A G G T C A T _ G C A G 
+################################################################################
+C T C A G T C A C C A A T G C A A C T T _ _ C C A _ T A C A A A T C A C T G C T 
+      | | |     | |         | |   | | |     | | |   |         | |   |     |     
+_ G A A G T G G C C _ _ _ _ C A G C T T A G C C A G T _ T T G A T G A _ A G _ A 
+################################################################################
+C C T G C T T C T A T G T T G A T A G G G G A T C A C T A C T T G T G T G A T G 
+  | |     | |   | |   |   | | | |     | |   |     |       |     |   |     |   | 
+A C T _ _ T T A T A A G G T G A T _ T G G C A _ _ A A G G C _ A G C G A A A A G 
+################################################################################
+T G A C A T G G G C A A C _ A C _ A A G A _ A A G _ A A T T T C T _ _ T T G _ C 
+|   |   | |   |   | | | |     |   |   | |     | |   | | |     | |     | | |   | 
+T C A G A T _ G A C A A C T C C T A T G A C G A G A A A T A C C T G A T T G C C 
+################################################################################
+A G T G G C T C A G G A G G A T T C A G A A C T A T _ T C G G _ T C A T G G A T 
+|         | | |   | | |   |       | | |     |   | |     | | |   | |   |   |     
+A _ _ _ C C T C _ G G A _ G _ _ _ C A G _ C C C A T C G C G G C T C _ T _ G _ C 
+################################################################################
+A T T T G T G A C T A T G A T G A A T C C A G T G G A A G A T G G A A C T G C T 
+|       |   | | |   |   |   | |     |   |   |   |     | | |   | | |   | | | |   
+A _ C C G G G A C G A _ G _ T G G C T G C _ G _ G C C A G A _ G G A T C T G C C 
+################################################################################
+T A G T G G C A C G G C A A C A C A T T G A A A T G A G T A C T A _ C T G G C _ 
+  |   |     | |     |     | |   |     | |       |       |   |   |   | |   | |   
+C A _ T _ _ C A _ A G _ T A C G C _ _ T G G C C T _ _ C T _ C C A C C T _ G C T 
+################################################################################
+T G G G T _ T G G A A G A T T T A G G C C T _ T C A _ G A A C C _ T C A T T T T 
+|     | |     | | | | |       |   | |   | |     | |   |     | |   |   |         
+T T C G T C A G G A A G _ _ _ T _ G G G C T C G C A T G _ G C C G T G A _ _ _ C 
+################################################################################
+A C C C T T G A T G G T A A T A G C T T C T A C A A G A T _ C A T C A G C A A T 
+| | | |     |   | | | |   | |     | | | |     |   | |   |   | | | | | |       | 
+A C C C _ _ G _ T G G T _ A T _ _ C T T C _ _ C G A G _ T C C A T C A G _ T T T 
+################################################################################
+G A A G A A G G T T _ A _ C A G A C A C A T T T G C T _ A T T T C C A A A T A G 
+|   | | | | |   | |   |   | | |       |   |   |   | |   | |     | |     | |   | 
+G _ A G A A G A T T G A G C A G _ T T C G T G T A C T C A T C G C C C C A T _ G 
+################################################################################
+A T A A A A A A G A C _ T _ G C A C A T _ T T A T T A C A A A A G G C A C C T G 
+|     | |   | | |   |   |   |   |   | |   | |   |   | |       |   |   |     |   
+A _ C A A T A A G T C A T G G G A G A T G T T _ T G A C _ _ G A _ G _ A _ _ T _ 
+################################################################################
+G G A _ A G T C A T C G _ G G A T A G A A G C T C T A A C C A G T G A T T _ _ _ 
+  | |     |   | |   | |     | |   | | | |     | | |   | | | | | |     | |       
+_ G A T C G C C A C C G C A G A _ A G A A _ T T C T _ A C C A G T C T T T G G G 
+################################################################################
+_ A T _ _ C T A T A C T A C A T T A G T A A T G A A T A T A A A G G A A T G C _ 
+  | |     | |   | | |   | | | | |   |       | | | | | | |         |     |   |   
+G A T C C C T _ T A C C A C A T T _ G _ _ _ T G A A T A T _ _ _ T G _ _ T _ C T 
+################################################################################
+C A G G A G G A A G G A A T C T T T A T A A A A T C C A A C T T A G _ T G A C T 
+|               | | |     | |     |   |     | | |   |   |     |   |   | |   |   
+C _ _ _ _ _ _ _ A G G _ C T C _ C T _ T _ G A A T _ C _ A _ _ T _ G C T G _ C _ 
+################################################################################
+A T A C A _ A A A G T G A C A T G C C T C _ A G T T G T G A _ G _ C T G A A T _ 
+      | |     | |     | |   |   |   | | |   |     | |   | |   |   | | |     |   
+_ _ _ C A G T A A _ _ G A _ A _ G _ C T C G A C C T G _ G A G G C C T G G T T C 
+################################################################################
+C C _ G G _ A A A G G T G _ _ _ T C A G T _ A C T A T T C T G T G T _ C _ A T T 
+| |   | |       | | | | |       | |   | |   |     | | |     | | | |   |     | | 
+C C A G G C T C A G G T G C C T T C C G T G A _ _ A T T _ G G T G T C C T G T T 
+################################################################################
+C A G T A A A G A G G C G A A G T A T T A T C A G C T G A G A T G T T C C G G T 
+|     |   | |       | |   |   |   | | | |   |     |     | |     |   |   |   |   
+C _ _ T _ A A _ T T G C _ A C G G A T T A _ C _ _ C _ _ A G _ _ G C T _ C _ G _ 
+################################################################################
+C C T G G T C T G C C _ C C T _ C T A T A C T C T A C A C A G C A G C G T G A A 
+| |   | |   | |   | |       |   |   | | |       |       | | |   |   |     | | | 
+C C _ G G _ C T _ C C G A A T C C G A T A _ _ _ T G G G C A G _ A C C A A G A A 
+################################################################################
+T G A T A A A G G G C T G A G A G T C C T G G A A G _ A C A A T _ T C A G C T T 
+  | | |   |   | |   |     |   | |             | | |   |   | | |   | |   |   | | 
+_ G A T G A T G G A C _ _ A _ A G _ _ _ A A A A A G A A T A A T C T C C G _ T T 
+################################################################################
+T G G A T A A A A T G C T G C A G A A T G T C C A G A T G C C C T C C A A _ A A 
+|       |         |   |     | | | | |         | |   |   |       |     | |   |   
+T _ _ C T _ _ _ C T A C _ A C A G A A _ _ _ _ C A _ A _ G _ _ _ T T G A A G A C 
+################################################################################
+A A C T G G A C T T C A T T A T T T T G A A T G A A A C A A A A T T T T G G T A 
+| |   |   |   | | | |     |   | | | |         |       | | | | |         | |     
+A A _ T _ G T C T T C C C T C T T T T _ _ _ C G _ C C C A A A A _ _ _ A G G _ _ 
+################################################################################
+T C A G A T G A T C T T G C C T C C T C A T T T T G A T A A A T _ C C A A G A A 
+|     | |   |   |   | | |     |   |   | |   |   | |   |   | | |   | |   |     | 
+T _ G G A _ G _ T _ T T G _ _ T _ C _ C A _ T A T G C T T A A T G C C _ A _ C A 
+################################################################################
+A T A T C C T _ C T A C T A T T A G A T G T G T A T G C A G _ G C C C A T _ G T 
+| |   |     |   | | | |   |       |     |       | |   |   |   |   | | | |     | 
+A T G T _ G T G C T A C C A C C C G _ _ G A C C A T _ C T G T G _ C C A T C C T 
+################################################################################
+A G T C A A A A A G C A G A C A C T G T C T T C A G A C T G A A C T G G G C C A 
+  |       | | | |   |     | |   |   |         | | | |     | | |     | | |   | | 
+_ G _ _ G A A A A _ C _ T A C _ C A G _ _ _ G C A G A _ _ G A A _ _ G G G _ C A 
+################################################################################
+C T T A C C T T G C A A G C A C A G A A A A C A T T A T A G T A G C T A G C T T 
+    |     |   | |       | |   | | | |   | |   |   |   |   |   | |     | |     | 
+_ _ T _ _ C G T G _ G T G C _ C A G A G A A _ A _ T _ T _ G _ A G G G A G _ _ T 
+################################################################################
+T G A T G G C A G A G G A A G T G G T T A C C A A G G A G A _ T A A G A T C A T 
+|   | |   | |       |     | |   | |   |   | | | |   | |   |   |     | | | |     
+T C A T _ G C _ _ C G C C A G _ G G C T _ C C A A _ G A _ A C T _ _ G A T C C C 
+################################################################################
+G C A T G C A A T C A A C A G A A G A C T G G G A _ A C A T T T G A _ _ A G T T 
+|     | |       |           | | | |   | |   |   |     | |   | | | |     | |     
+G T T T G _ _ _ T _ _ _ _ _ G A A G C C T _ G C A C C C A _ T T G A C C A G _ _ 
+################################################################################
+G A A G _ _ A T C A A A T T G A A G C A G C C A G A C A A T T T T C A A A A A T 
+|   | |     | | |   | |     | | | | | | |     |   |   | |         |   | |   | | 
+G _ A G C C A T C T A A _ _ G A A G C A G _ _ A _ A _ A A _ _ A G C _ A A C A T 
+################################################################################
+G G G A T T T G T G G A _ C A A C A A A C G A A T T G C A A T T T G G G G C T G 
+    | |       |   |   |   | | |   | | |   | | |     | | | |             |     | 
+_ _ G A _ _ A G _ G C A G C A A _ A A A _ G A A _ A G C A A _ _ _ _ A A G _ A G 
+################################################################################
+G T C A _ T A T G G A G G G T A C G T A A C C T _ C A A T G G T C C T G G _ G A 
+| | | |       | | | |     |   |   |     |   | |   |   |   | |   |   | | |   |   
+G T C A C C C T G G A _ _ G _ A _ G C C A G C T G C _ A _ G G A C A T G G A G G 
+################################################################################
+T C _ G G G A A G _ _ T G _ G C G _ T _ G T T C A A G T _ G T G G A A T A G C C 
+| |       | |   |     | |   | | |   |       | |       |       | |     |   | | | 
+T C A C T G A G G C C T G A G C G C T C C C T C _ _ C T C C C G G _ T T T G C C 
+################################################################################
+G T G G C _ G C C T G T A T C C C G G T G G G A G T A C T A T G A C T C A G T G 
+    |   |   | | | | |       | |   |   | | | | |   |   |     | |   |   |     | | 
+_ A G A C T G C C T G _ _ _ C C T G C T G G G A _ T _ C C C T G G C _ C _ _ T G 
+################################################################################
+T A C A C _ A G A A C G T T A C A T G G G T C _ _ T C C C A A C T C C A G A A G 
+    |   |     | | | | |     |   |   | |     |     |   | |   | | | | |           
+_ _ C C C T G G A A C G _ G A G A _ G G C C C A G T A C C _ A C T C C _ _ _ _ _ 
+################################################################################
+A C A A C C T T G A C C A T T A C A G A A A T T C A A C A G T C A T G A G C A G 
+  | |   | |   |     | | |   |   |   |   |   |   |   | | | |       | |   | |   | 
+T C A C C C G T _ C C C A _ T _ C T G _ A C T G C _ A C A G _ _ _ T G _ G C T G 
+################################################################################
+A G C T G A A _ A A T _ T _ _ T _ T A A A C A _ A G T T G A G T A C C T C C T T 
+  |     | | |     | |   |     |   |   | | | |   | |     |   | |     |   | | | | 
+_ G _ G G A A C C A T C T G C T G T G A A C A G A G C A G _ G T G T C _ C C T T 
+################################################################################
+A T T C A T G G A A C _ A G C A G A T G A T A A C G T T C A C T _ T T C A G C _ 
+    | |   |   |   | |     | |   | |   |   |     |   | | | | | |     |   |   |   
+_ C T C C T C G C A C G G G C C G A G G C T C T C _ T T C A C T G A T G A _ C T 
+################################################################################
+A G T _ C A G C T C A _ G _ A T C T C C A A A G C _ _ C _ C T G G T C G A T G T 
+  | |     | | |   | |   |   |     |     | | | | |     |   | | | |     | |   |   
+G G T G A A G C _ C A C G C A _ A T _ _ A A A G C A T C T C T G G _ G G A _ G _ 
+################################################################################
+T G G _ A _ G T G G _ A T T T C C A G G C 
+  | |   |       | |     |     | | | |   | 
+_ G G C A C A A G G C C T C C C C A G T C 
+##########################################
